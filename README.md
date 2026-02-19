@@ -1,7 +1,7 @@
 # Predicting_Prolonged_Hospital_Stay_Risk
 ## Predicting Prolonged Hospital Stay Using Clinical Risk Stratification
 
-## Overview
+## Executive Summary
 Prolonged hospital stays increase operational costs, strain bed capacity, and often reflect underlying clinical complexity.  
 This project builds a clinically interpretable machine learning model to identify patients at risk of long hospital stays and translate predictions into actionable risk tiers.
 
